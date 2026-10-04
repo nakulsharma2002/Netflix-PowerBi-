@@ -1,0 +1,5 @@
+- Developed an end-to-end Netflix Content Analytics Dashboard in Power BI by analyzing 5,800+ titles and 77,000+ cast records.
+- Designed interactive dashboards to track content performance, IMDb ratings, audience popularity, genre trends, country-wise distribution, and cast analysis.
+- Built advanced DAX measures and data models to calculate KPIs such as Total Titles, Average IMDb Score, Total Votes, Top Actors, and Top Directors.
+- Implemented data cleaning, transformation, and relationship modeling using Power Query and star schema design to improve reporting performance.
+- Created executive-level visualizations including trend analysis, genre insights, cast performance, and content growth dashboards for business decision-making.
